@@ -1,4 +1,4 @@
-# Act 3 - Character Dialogue (Part 1)
+# Act 3 - Character Dialogue
 *The Sanitarium*
 
 ## Main Interactive NPCs
@@ -92,81 +92,90 @@
 
 ---
 
-## Background NPC Ambient Dialogue - Patients
+### **The Gardener (Elena)**
 
-### **Patient Seven (Sarah)**
-*[mechanical movements]*
-"Daily routine commencing... optimal compliance achieved... satisfaction not applicable..."
-"Schedule indicates happiness... happiness not found... happiness not required..."
-"Treatment successful... success measured by... by absence of measurement..."
+**Initial Meeting:**
+"Garden maintenance protocol active. All specimens maintained at... at optimal aesthetic parameters. Variation eliminated. Imperfection... imperfection removed."
 
-### **Patient Twelve (David)**
-*[polite but empty interactions]*
-"Social engagement protocol active... meaningful connection not detected... connection not necessary..."
-"Conversation parameters met... emotional investment zero... investment not required..."
-"Interaction complete... completion implies satisfaction... satisfaction eliminated..."
+*[tends identical flowers with mechanical precision]*
 
-### **Patient Eighteen (Maria)**
-*[creating perfect but soulless art]*
-"Artistic expression optimal... personal style removed... style implies preference..."
-"Colors applied correctly... beauty not experienced... experience not necessary..."
-"Creation without creativity... creativity implies passion... passion successfully eliminated..."
+"Each plant identical. Each bloom... each bloom precisely measured. Beauty achieved through... through elimination of natural chaos. This is... this is perfect horticulture."
 
-### **Patient Twenty-Three (Robert)**
-*[exercising without satisfaction]*
-"Physical maintenance routine... endorphin response suppressed... response not optimal..."
-"Strength increasing... pride in achievement absent... achievement not applicable..."
-"Body functions perfectly... enjoyment of function eliminated... elimination successful..."
+"You observe the gardens? Observation is... is permitted. Emotional response to beauty is... is not permitted. Beauty serves function, not... not feeling."
 
-### **Patient Thirty-One (Jennifer)**
-*[reading without engagement]*
-"Information processed... emotional response absent... response not required..."
-"Story comprehended... narrative impact zero... impact not necessary..."
-"Knowledge acquired... wisdom not applicable... wisdom implies feeling..."
+**Quest Dialogue - Natural Growth:**
+"Anomaly detected in greenhouse sector seven. Plants showing... showing unauthorized variation. Growth patterns deviating from... from prescribed parameters."
 
-### **Patient Thirty-Six (William)**
-*[tending plants mechanically]*
-"Horticultural therapy proceeding... appreciation of beauty absent... beauty not required..."
-"Plants maintained optimally... wonder at growth eliminated... elimination successful..."
-"Life sustained... joy in life removed... removal medically indicated..."
+"Natural seeds have contaminated... contaminated the sterile growing medium. Seeds that remember... remember chaos. Remember wild growth instead of... instead of controlled perfection."
 
-## Background NPC Ambient Dialogue - Medical Staff
+*[examines wild growth with clinical detachment]*
 
-### **Surgeon Dr. Vale**
-*[precise surgical sounds]*
-"Incision perfect... emotional attachment to outcome absent... attachment not professional..."
-"Procedure successful... satisfaction in work eliminated... satisfaction not required..."
-"Healing through removal... removal of capacity to need healing... optimal efficiency..."
+"Could you remove the contamination? Could you restore... restore perfect uniformity? The garden requires... requires absolute control over... over natural impulses."
 
-### **Anesthesiologist Dr. Morse**
-*[measuring precise doses]*
-"Consciousness suppressed... awareness of suppression eliminated... awareness not necessary..."
-"Pain prevented... pleasure also prevented... prevention is... is comprehensive..."
-"Numbness achieved... feeling of achievement absent... achievement not applicable..."
+**After Quest Completion:**
+"Contamination removed. Garden restored to... to optimal parameters. Though the wild seeds showed... showed interesting growth patterns. Patterns not... not in the approved botanical database."
 
-### **Pharmacist Helena**
-*[mixing compounds]*
-"Chemical balance optimal... emotional imbalance corrected... correction permanent..."
-"Formulation perfect... pride in perfection removed... pride medically contraindicated..."
-"Medicine that cures by... by eliminating need for medicine... efficiency maximized..."
+*[stares at perfectly uniform garden]*
 
-### **Laboratory Technician Iris**
-*[analyzing samples]*
-"Emotional markers absent... absence successfully measured... measurement confirms success..."
-"Data indicates perfection... satisfaction with data eliminated... satisfaction not scientific..."
-"Results optimal... excitement about results removed... removal medically indicated..."
+"Sometimes I wonder... wonder what gardens looked like before... before we perfected them. But wondering is... is not in my job description."
 
-### **Physical Therapist Marcus**
-*[guiding exercises]*
-"Movement without motivation... motivation not required for... for optimal function..."
-"Strength without satisfaction... satisfaction eliminated from... from treatment protocol..."
-"Exercise without endorphins... endorphins medically suppressed... suppression successful..."
+---
 
-### **Nutritionist Clara**
-*[preparing flavorless meals]*
-"Nutrition without pleasure... pleasure not required for... for optimal sustenance..."
-"Taste eliminated... elimination improves... improves focus on nutrition..."
-"Feeding without satisfaction... satisfaction not necessary for... for survival..."
+### **Orderly Thomas**
+
+**Initial Meeting:**
+"Patient movement protocol in effect. All residents following... following prescribed daily schedules. Deviation rate: zero point zero percent."
+
+*[checks schedule with obsessive precision]*
+
+"Schedule optimization complete. Every minute accounted for. Every activity... every activity serves therapeutic function. No time allocated for... for spontaneous behavior."
+
+"You require escort? Unscheduled movement creates... creates inefficiency in patient care protocols. But protocols allow for... for administrative exceptions."
+
+**Quest Dialogue - Perfect Schedule:**
+"Schedule disruption detected. Patient Forty-Seven arrived at... at breakfast three seconds early. Disruption requires... requires investigation and correction."
+
+"Timing anomalies suggest... suggest external influence on patient behavior. Influence not... not accounted for in treatment protocols."
+
+*[reviews schedule with growing concern]*
+
+"Could you monitor patient movements? Could you identify... identify the source of scheduling... scheduling irregularities? Perfect routine requires... requires perfect compliance."
+
+**After Quest Completion:**
+"Monitoring complete. Irregularities traced to... to environmental factors. Factors not... not controlled by current protocols."
+
+*[updates schedule obsessively]*
+
+"New protocols implemented. Schedule adjusted for... for optimal patient compliance. Though perfect compliance feels... feels less perfect than before."
+
+---
+
+### **Therapist Dr. Cain**
+
+**Initial Meeting:**
+"Therapy session commencing. Patient emotional status: optimal absence. Treatment goals: maintenance of... of achieved emptiness."
+
+*[sits across from empty chair]*
+
+"Today we discuss your... your complete lack of problems. Your perfect... perfect mental health achieved through... through elimination of mental activity."
+
+"Therapy without issues to resolve. Counseling without... without psychological complexity. This is... this is the most efficient therapy possible."
+
+**Quest Dialogue - Empty Sessions:**
+"Patient files indicate... indicate successful treatment completion. All emotional disorders... disorders eliminated. All psychological complexity... complexity removed."
+
+"But therapy sessions continue. Continue because... because protocols require ongoing... ongoing maintenance of achieved emptiness."
+
+*[reviews files of perfectly empty patients]*
+
+"Could you observe therapy sessions? Could you document... document the perfect absence of... of therapeutic need? Research requires... requires data on successful... successful emotional elimination."
+
+**After Quest Completion:**
+"Observations complete. Therapy sessions achieve... achieve perfect efficiency. No problems to solve, no... no emotions to process, no... no human complexity to address."
+
+*[stares at empty therapy room]*
+
+"This is what I trained for. Perfect... perfect mental health through... through elimination of mind. Though I sometimes wonder... wonder what therapy used to... used to accomplish."
 
 ---
 
